@@ -1,4 +1,3 @@
-# UAS-MobileProgrammingLanjut
-# nama : ahmad rasyid hakim s
-# nim  : 200040097
-# matkul : mobile programming lanjut
+Nama   : I Gede Pasek Krisna Permana Putra
+Nim    : 200040037
+UAS MOBILE PROGRAMING
